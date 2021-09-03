@@ -5,7 +5,7 @@
 
 - 🏢 I'm currently working full-time at **WITCRED**
 - ⚙️ I use daily: `C#`, `.NET Core`, `Angular`, `HTML`, `CSS`, `PostgresSQL`
-- 🌱 Learning more about and studying: **DDD**, **CQRS**, **Event sourcing** and always updated with **C#** and **Angular**
+- 🌱 Learning more about and studying: **DDD**, **CQRS**, **Event sourcing** and always updated with **C#** and **Angular** updates
 
 #### Find me around the web 🌎
 - Find me in PluralSight at <a href="https://app.pluralsight.com/profile/rafael-ferro-b">PluralSight Profile</a>
